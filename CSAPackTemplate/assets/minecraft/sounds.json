@@ -1,0 +1,18 @@
+{	
+	"cobblemonspawnalerts.your_sound_here": {
+		"sounds": [
+			{
+			"name": "cobblemonspawnalerts/your_sound_here",
+			"attenuation_distance": 0
+			}
+		]
+	},
+	"cobblemonspawnalerts.another_sound": {
+		"sounds": [
+			{
+			"name": "cobblemonspawnalerts/another_sound",
+			"attenuation_distance": 0
+			}
+		]
+	}
+}
